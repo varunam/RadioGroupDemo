@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RadioGroupDemo</string>
+    <string name="app_title">Eg en bartiya ilwa?</string>
+    <string name="positive_button">Sari Bartini</string>
+    <string name="negative_button">Illa maga agalla</string>
+    <string name="maybe_button">Nodtini maga"</string>
+    <string name="button_title">Show My Choice</string>
+    <string name="Main_Title">Ond Question maga!</string>
+    <string name="dialogueMessageYes">Ashte kano!</string>
+    <string name="dialogTitle">Your Choice is: </string>
+    <string name="dialogueMessageNo">Thika muchkond ba!</string>
+    <string name="dialogueMessageMayBe">yaakalooooo... Baaraloooooo...</string>
+</resources>
